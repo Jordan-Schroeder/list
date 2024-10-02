@@ -1425,6 +1425,10 @@ info
 int
 eu.int
 
+// internal 
+// add to list of tlds
+internal
+
 // io : http://www.nic.io/rules.htm
 // list of other 2nd level tlds ?
 io
